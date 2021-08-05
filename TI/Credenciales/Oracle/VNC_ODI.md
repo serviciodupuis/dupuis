@@ -1,7 +1,7 @@
-###Instalar Real VncViewer
+### Instalar Real VncViewer
 https://www.realvnc.com/es/connect/download/viewer/
 
-###Datos de la Instancia
+### Datos de la Instancia
 - bastion_host_id =
 - bastion_host_public_ip =
 - node_id = ocid1.instance.oc1.iad.anuwcljtgmftn3ycnp2yfn6trmbibu4mvdrvf43aifa6uzmuslo2vntbc3pa
