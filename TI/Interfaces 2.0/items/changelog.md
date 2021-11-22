@@ -1,6 +1,11 @@
 # Changelog
 Todos los cambios importantes seran registrados en este documento.
 
+
+## [0.0.5] - 2021-10-11
+### Added
+- Validar curso de accion solo basado en el item type y no en el digito con el que comienza el sku
+
 ## [0.0.4] - 2021-08-11
 ### Added
 - Validación viajarIpos = 0 para cuando se quiere eliminar items de IPOS
